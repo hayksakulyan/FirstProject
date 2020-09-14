@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24c03cfb-d7d3-4ccc-9df5-d3139ba968a4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1hDTR9aWfh0nVKhY8nNSfwYCAdr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24c03cfb-d7d3-4ccc-9df5-d3139ba968a4" name="Default Changelist" comment="" />
+      <created>1599544651455</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599544651455</updated>
+      <workItem from="1599544652528" duration="15052000" />
+      <workItem from="1599904769439" duration="30730000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="790" y="125" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599932472963">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="790" y="125" width="800" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/72.27.1528.873@72.27.1528.873" timestamp="1599932472963" />
+    <state x="450" y="77" width="762" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1599942675526">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="450" y="77" width="762" height="780" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/72.27.1528.873@72.27.1528.873" timestamp="1599942675526" />
+    <state x="527" y="72" width="618" height="783" key="find.popup" timestamp="1599943858110">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="527" y="72" width="618" height="783" key="find.popup/72.27.1528.873@72.27.1528.873" timestamp="1599943858110" />
+    <state x="561" y="377" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1599941202622">
+      <screen x="72" y="27" width="1528" height="873" />
+    </state>
+    <state x="561" y="377" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1528.873@72.27.1528.873" timestamp="1599941202622" />
+  </component>
+</project>
